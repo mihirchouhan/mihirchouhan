@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mihirchouhan
-- 👀 I’m interested in ...Python
-- 🌱 I’m currently learning ...Python
+- 👀 I’m interested in ...Java
+- 🌱 I’m currently learning ...Java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mihirchouhan22222@gmail.com
 
