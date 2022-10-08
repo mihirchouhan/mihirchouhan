@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mihirchouhan
-- 👀 I’m interested in ...Java
-- 🌱 I’m currently learning ...Java 
+- 👀 I am a Computer Scinece enthuasist. I’m interested in Technology and how its architectures works and making world developed.
+- 🌱 I’m currently learning Java and DSA simultaneoulsy.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mihirchouhan22222@gmail.com
 
